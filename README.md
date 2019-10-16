@@ -1,6 +1,6 @@
 # ScrapeToolApi
 
-This script allows you to find differents informations of french company by their company name.
+This script allows you to find differents informations of french company (numero of SIREN, postal code, address, ...) by their company name.
 
 # How to install & run the project
 
