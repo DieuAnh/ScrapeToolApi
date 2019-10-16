@@ -8,4 +8,4 @@ This script allows you to find differents informations of french company by thei
 2. Clone the repo: git clone https://github.com/DieuAnh/ScrapeToolApi.git
 3. Enter into the project: cd ScrapeToolApi
 4. Install nodemon, express, request, ejs (through npm)
-5. Run command nodemon server.js
+5. Run command: nodemon server.js
