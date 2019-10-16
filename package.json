@@ -9,21 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/DieuAnh/ScrapeToolApi.git"
   },
   "author": "dieuanh",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/DieuAnh/ScrapeToolApi/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/DieuAnh/ScrapeToolApi#readme",
   "devDependencies": {
     "nodemon": "^1.19.4"
   },
   "dependencies": {
     "ejs": "^2.7.1",
     "express": "^4.17.1",
-    "mongoose": "^5.7.5",
     "request": "^2.88.0"
   }
 }
